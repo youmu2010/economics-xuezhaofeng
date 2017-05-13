@@ -1,1 +1,1 @@
-# economics-xuezhaofeng
+# 薛兆丰的北大经济学——笔记
